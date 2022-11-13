@@ -1,0 +1,22 @@
+[project]
+name = "label_flatten"
+version = "0.0.3"
+authors = [
+  { name="phoenix000", email="phoenix000.taipei@gmail.com" },
+]
+description = "Flatten hierarchical concepts or labels system to declarative sentences and labels."
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
