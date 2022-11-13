@@ -1,6 +1,6 @@
 [project]
 name = "label_flatten"
-version = "0.0.3"
+version = "0.1.0"
 authors = [
   { name="phoenix000", email="phoenix000.taipei@gmail.com" },
 ]
